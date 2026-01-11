@@ -1,23 +1,40 @@
 # Student Attendance System (Python)
 
-A simple console-based student attendance management system built using Python.
+A simple console-based student attendance management system written in Python.  
+This beginner-friendly project demonstrates file handling, menu-driven programs, and basic CRUD operations.
 
-## Features
-- Add students
+---
+
+## 📸 Demo (Screenshot)
+
+![
+](image.png)
+
+---
+
+## ✨ Features
+- Add new students
 - Mark attendance (Present/Absent)
-- View attendance records
-- Saves data in local text files
+- View attendance history
+- View student list
+- Saves data to local text files
 
-## Technologies Used
-- Python
-- File Handling
+---
 
-## How to Run
+## 🛠 Technologies Used
+- Python (Core)
+- File Handling (TXT)
+
+---
+
+## 📂 Project Structure
+
+---
+
+## ▶ How to Run
+
 Make sure Python is installed, then run:
 
+```sh
+python attendance.py
 
-## Future Enhancements
-- GUI (Tkinter)
-- SQLite database support
-- Export attendance to CSV/Excel
-- Web version (Flask)
